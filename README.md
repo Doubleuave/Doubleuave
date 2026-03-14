@@ -1,59 +1,57 @@
-# 🌌 Hi, I'm Yossi Israel
-### AI Lead \u0026 Senior Machine Learning Engineer
-
-I specialize in architecting **real-time machine learning systems**, **LLM orchestration**, and **algorithmic decision engines**. With a background spanning from hardware-software integration to quantitative finance, I build production-grade AI solutions that drive measurable business impact.
-
----
-
-### 🚀 Core Expertise
-
-- **Real-time ML Systems:** Designing low-latency inference pipelines and predictive models.
-- **LLM Engineering:** Expert in RAG, fine-tuning, and multi-agent system deployment.
-- **Algorithmic Trading:** Developing quantitative strategies and reinforcement learning agents.
-- **Production AI:** Bridging the gap between R\u0026D and scalable, robust deployments.
+# Yossi Israel
+**AI Lead & Senior ML Engineer**  
+Expertise in Real-time ML Systems, LLM Engineering, and Algorithmic Trading.
 
 ---
 
-### 🛠️ Technical Stack
+### Professional Summary
 
-| Category | Technologies |
-| :--- | :--- |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, LangChain, LlamaIndex, Reinforcement Learning |
-| **Data \u0026 Systems** | Python, SQL, C++, Real-time Data Pipelines, Statistical Modeling |
-| **Infrastructure** | MLOps, Docker, AWS/GCP, AI Deployment Scaling |
+AI Lead and Senior Machine Learning Engineer with extensive experience building production-grade intelligence systems. Specialized in the intersection of real-time machine learning, algorithmic decision systems, and large-scale AI deployment. Proven track record in developing high-frequency trading models, reinforcement learning agents, and integrated hardware-software AI solutions. Passionate about bridging quantitative finance with state-of-the-art LLM engineering.
 
 ---
 
-### 💼 Career Highlights
+### Technical Proficiencies
 
-- **Senior AI Engineer** @ Papaya Global
-- **Head of R\u0026D** @ Stealth AI Startup
-- **Quantitative Portfolio Manager** @ The Cayuga Fund
-- **Data Scientist / Algorithm Researcher** @ BlackBay Capital Management
-- **Technical Project Manager** @ Intel Corporation
-
----
-
-### 📊 GitHub Insights
-
-\u003cp align=\"left\"\u003e
-  \u003cimg src=\"https://github-readme-stats.vercel.app/api?username=Doubleuave\u0026show_icons=true\u0026theme=tokyonight\" alt=\"Yossi's Stats\" /\u003e
-  \u003cimg src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Doubleuave\u0026layout=compact\u0026theme=tokyonight\" alt=\"Top Languages\" /\u003e
-\u003c/p\u003e
+*   **Core AI:** Machine Learning, Deep Learning, Reinforcement Learning, LLM Engineering.
+*   **Engineering:** Real-time Systems, AI Infrastructure, Predictive Modeling, HW/SW Integration.
+*   **Quantitative Finance:** Algorithmic Trading, Statistical Modeling, Investment Research.
+*   **Programming:** Python, C++, SQL, Quant Stack.
+*   **Academic:** MBA in Finance (Cornell), B.S. Electrical Engineering (Tel Aviv University).
 
 ---
 
-### 🎓 Academic Foundation
+### Key Areas of Expertise
 
-- **Cornell University:** MBA — Investment Research \u0026 Finance
-- **Tel Aviv University:** B.S. Electrical \u0026 Electronics Engineering
+#### 📈 Algorithmic Trading & Decision Systems
+Designing and deploying low-latency ML models for quantitative trading and automated decision-making in volatile environments.
+
+#### 🤖 Real-time ML & AI Agents
+Building autonomous agents and pipelines capable of processing and acting on high-velocity data streams in real-time.
+
+#### 🏗️ LLM Engineering & Infrastructure
+Architecting scalable environments for Large Language Models, focusing on integration into production workflows and decision systems.
 
 ---
 
-### 📫 Connect with Me
+### Experience Highlights
 
-\u003cp align=\"left\"\u003e
-  \u003ca href=\"https://linkedin.com/\" target=\"_blank\"\u003e
-    \u003cimg src=\"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white\" alt=\"LinkedIn\" /\u003e
-  \u003c/a\u003e
-\u003c/p\u003e
+*   **Senior AI Engineer at Papaya Global:** Engineering intelligent solutions for global-scale platforms.
+*   **Head of R&D at Stealth AI Startup:** Leading the development of innovative AI products.
+*   **Quantitative Portfolio Manager at The Cayuga Fund:** Managing institutional-grade quantitative strategies.
+*   **Data Scientist at BlackBay Capital Management:** Foundational research in algorithmic trading.
+*   **Technical Project Manager at Intel:** Managing complex hardware-software integration projects.
+
+---
+
+### Academic Background
+
+*   **MBA – Investment Research & Finance**
+    *Cornell University*
+*   **B.S. Electrical & Electronics Engineering**
+    *Tel Aviv University*
+
+---
+
+### Professional Links
+
+[GitHub Profile](https://github.com/Doubleuave)
