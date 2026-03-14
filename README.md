@@ -54,4 +54,4 @@ Architecting scalable environments for Large Language Models, focusing on integr
 
 ### Professional Links
 
-[GitHub Profile](https://github.com/Doubleuave)
+[GitHub Profile](https://github.com/YossiIsraelpro) | [LinkedIn](https://www.linkedin.com/in/yossi-israel/)
